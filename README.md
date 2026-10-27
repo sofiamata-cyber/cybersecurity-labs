@@ -41,4 +41,4 @@ Linux Administration | Virtualization | IPv4 Networking | Network Troubleshootin
 
 ## Network Connectivity Evidence
 
-![Kali Linux connectivity tests](network-connectivity.png)
+![Kali Linux Network Connectivity Test](screenshot.png)
