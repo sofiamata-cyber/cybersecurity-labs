@@ -38,3 +38,7 @@ ping -c 4 google.com
 ## Skills Practiced
 
 Linux Administration | Virtualization | IPv4 Networking | Network Troubleshooting | DNS | ICMP
+
+## Network Connectivity Evidence
+
+![Kali Linux connectivity tests](network-connectivity.png)
